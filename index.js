@@ -2,13 +2,13 @@ function add(a, b) {
   returns parseInt(a) + parseInt(b)
 }
 function subtract(a,b) {
-  returns a - b
+  returns parseInt(a) - parseInt(b)
 }
 function multiply(a,b) {
-  returns a * b
+  returns parseInt(a) * parseInt(b)
 }
 function divide(a,b) {
-  returns a/b
+  returns parseInt(a)/parseInt(b)
 }
 function inc(n) {}
 function dec(n) {}
