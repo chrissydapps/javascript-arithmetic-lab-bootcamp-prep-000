@@ -4,8 +4,12 @@ function add(a, b) {
 function subtract(a,b) {
   returns a - b
 }
-function multiply(a,b) {}
-function divide(a,b) {}
+function multiply(a,b) {
+  returns a * b
+}
+function divide(a,b) {
+  returns a/b
+}
 function inc(n) {}
 function dec(n) {}
 function makeInt(n) {}
